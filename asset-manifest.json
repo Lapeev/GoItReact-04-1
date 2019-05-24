@@ -1,5 +1,5 @@
 {
-  "main.css": "/GoItReact-04-1/static/css/main.721778ca.chunk.css",
+  "main.css": "/GoItReact-04-1/static/css/main.b864b17e.chunk.css",
   "main.js": "/GoItReact-04-1/static/js/main.4e843e4c.chunk.js",
   "main.js.map": "/GoItReact-04-1/static/js/main.4e843e4c.chunk.js.map",
   "runtime~main.js": "/GoItReact-04-1/static/js/runtime~main.d915278f.js",
@@ -20,13 +20,13 @@
   "static/js/6.0b3d4b53.chunk.js": "/GoItReact-04-1/static/js/6.0b3d4b53.chunk.js",
   "static/js/6.0b3d4b53.chunk.js.map": "/GoItReact-04-1/static/js/6.0b3d4b53.chunk.js.map",
   "index.html": "/GoItReact-04-1/index.html",
-  "precache-manifest.60c0b7ad0229043fe3f465e1fefb4400.js": "/GoItReact-04-1/precache-manifest.60c0b7ad0229043fe3f465e1fefb4400.js",
+  "precache-manifest.3f0c47166dcbab250c88ae548907718b.js": "/GoItReact-04-1/precache-manifest.3f0c47166dcbab250c88ae548907718b.js",
   "service-worker.js": "/GoItReact-04-1/service-worker.js",
   "static/css/2.e057c3af.chunk.css.map": "/GoItReact-04-1/static/css/2.e057c3af.chunk.css.map",
   "static/css/3.eb11ba67.chunk.css.map": "/GoItReact-04-1/static/css/3.eb11ba67.chunk.css.map",
   "static/css/4.acc4478e.chunk.css.map": "/GoItReact-04-1/static/css/4.acc4478e.chunk.css.map",
   "static/css/5.7ad5d12f.chunk.css.map": "/GoItReact-04-1/static/css/5.7ad5d12f.chunk.css.map",
   "static/css/6.8fe2d8fc.chunk.css.map": "/GoItReact-04-1/static/css/6.8fe2d8fc.chunk.css.map",
-  "static/css/main.721778ca.chunk.css.map": "/GoItReact-04-1/static/css/main.721778ca.chunk.css.map",
+  "static/css/main.b864b17e.chunk.css.map": "/GoItReact-04-1/static/css/main.b864b17e.chunk.css.map",
   "static/media/logo.png": "/GoItReact-04-1/static/media/logo.1130f550.png"
 }
