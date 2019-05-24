@@ -1,0 +1,23 @@
+.linkList {
+  display: flex;
+  list-style: none;
+  padding: 15px;
+  background: #333;
+  margin: 0;
+}
+.linkItem:not(:last-child) {
+  margin-right: 15px;
+}
+.link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5rem;
+}
+.link:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.active,.active:hover {
+  color: #c30;
+  outline: none;
+}
