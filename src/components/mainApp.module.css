@@ -3,3 +3,14 @@
   justify-content: center;
   padding-top: 30px;
 }
+
+.routeWrapper {
+  position: relative;
+  overscroll-behavior-x: none;
+}
+
+.routeWrapper > div {
+  position: absolute;
+  width: 100%;
+}
+

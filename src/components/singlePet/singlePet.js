@@ -22,14 +22,24 @@ const SinglePet = ({ name, age, breed, gender, color, image, description }) => (
   </div>
 );
 
+SinglePet.defaultProps = {
+  name: undefined,
+  age: undefined,
+  breed: undefined,
+  gender: undefined,
+  color: undefined,
+  image: undefined,
+  description: undefined,
+};
+
 SinglePet.propTypes = {
-  name: PropTypes.string.isRequired,
-  age: PropTypes.number.isRequired,
-  breed: PropTypes.string.isRequired,
-  gender: PropTypes.string.isRequired,
-  color: PropTypes.string.isRequired,
-  image: PropTypes.string.isRequired,
-  description: PropTypes.string.isRequired,
+  name: PropTypes.string,
+  age: PropTypes.number,
+  breed: PropTypes.string,
+  gender: PropTypes.string,
+  color: PropTypes.string,
+  image: PropTypes.string,
+  description: PropTypes.string,
 };
 
 export default SinglePet;
