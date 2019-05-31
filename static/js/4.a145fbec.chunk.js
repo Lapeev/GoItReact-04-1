@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{58:function(e,a,n){e.exports=n.p+"static/media/logo.1130f550.png"},59:function(e,a,n){e.exports={wrapper:"home_wrapper__2VU7d",head:"home_head__3alrY"}},63:function(e,a,n){"use strict";n.r(a);var t=n(0),o=n.n(t),r=n(58),c=n.n(r),p=n(59),s=n.n(p);a.default=function(){return o.a.createElement("div",{className:s.a.wrapper},o.a.createElement("img",{src:c.a,alt:"logo"}),o.a.createElement("h2",{className:s.a.head},"Welcome to Paws online store"))}}}]);
-//# sourceMappingURL=4.a145fbec.chunk.js.map
